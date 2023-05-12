@@ -24,10 +24,10 @@ function rot13(encodedStr){
     
   return decodedArr;//return decodedArr
 }
-rot13("SERR YBIR? NPPVBWBO");
-rot13( 'ABCDEFGHIJKLMNOPQRSTUVWXYZ');
-rot13("THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG");
-rot13("V YBIR QBPGBE FGENATR, QB LBH?");
+//rot13("SERR YBIR? NPPVBWBO");
+//rot13( 'ABCDEFGHIJKLMNOPQRSTUVWXYZ');
+//rot13("THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG");
+//rot13("V YBIR QBPGBE FGENATR, QB LBH?");
 // You can test your code by running the above function and printing it to console by pressing the run button at the top. To run it with input 36, uncomment the following line
 
 
