@@ -22,9 +22,9 @@ function rot13(encodedStr){
         }
     }
     
-  return ;//return decodedArr
+  return decodedArr;//return decodedArr
 }
-rot13("SERR YBIR? NPPVBWBO");
+console.log(rot13("SERR YBIR? NPPVBWBO"));
 rot13( 'ABCDEFGHIJKLMNOPQRSTUVWXYZ');
 rot13("THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG");
 rot13("V YBIR QBPGBE FGENATR, QB LBH?");
